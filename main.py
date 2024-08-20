@@ -28,4 +28,4 @@ def start():
         
         bg_color = get_pixel(sct_img, 100, 100)
 
-start()   
+ 
